@@ -1,0 +1,31 @@
+_repo: Forty-one-years-in-IndiaFrom-Subaltern-To-Commander-In-Chief_16528
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roberts, Frederick Sleigh Roberts, Earl
+    alias: Kandahar, Frederick Sleigh Roberts, Earl Roberts of
+    birthdate: 1832
+    deathdate: 1914
+    gutenberg_agent_id: '6772'
+    url: http://www.gutenberg.org/2009/agents/6772
+description: ''
+gutenberg_bookshelf: India
+gutenberg_issued: '2005-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'India -- History -- British occupation, 1765-1947 -- Biography'
+- !lcc 'DS'
+- !lcsh 'Roberts, Frederick Sleigh Roberts, Earl, 1832-1914'
+title: 'Forty-one years in India
+
+  From Subaltern To Commander-In-Chief'
+url: http://www.gutenberg.org/ebooks/16528
