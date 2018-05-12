@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6772'
     url: http://www.gutenberg.org/2009/agents/6772
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16528#Forty-one-years-in-IndiaFrom-Subaltern-To-Commander-In-Chief
 gutenberg_bookshelf: India
 gutenberg_issued: '2005-08-14'
 gutenberg_type: Text
